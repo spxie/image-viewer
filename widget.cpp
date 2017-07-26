@@ -6,7 +6,7 @@ Widget::Widget(QWidget *parent) :
     ui(new Ui::Widget)
 {
     ui->setupUi(this);
-    this->setWindowTitle("image viewer");
+    this->setWindowTitle("image viewersz123");
 }
 
 Widget::~Widget()
